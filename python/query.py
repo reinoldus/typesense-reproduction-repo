@@ -12,6 +12,11 @@ except:
     with open("./search.json", "r") as f:
         search_parameters = json.load(f)
 
+print("-" * 10, "Search parameters")
+pprint.pprint(search_parameters)
+
+print("-" * 10, "Query output")
+
 res = TS_CLIENT.collections[SCHEMA['name']].documents.search(search_parameters)
 
 pprint.pprint(res)

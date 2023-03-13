@@ -16,3 +16,5 @@ echo "====== OUTPUT END"
 
 docker rm -f test-typesense
 docker image rm test-typesense-python
+
+docker network rm typesense-test-network
