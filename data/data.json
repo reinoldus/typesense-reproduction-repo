@@ -2,11 +2,13 @@
   {
     "id": "0",
     "name": "a",
-    "pop": 1
+    "pop": 1,
+    "other_field": "not_test"
   },
   {
     "id": "1",
     "name": "b",
-    "pop": 0
+    "pop": 0,
+    "other_field": "test"
   }
 ]

@@ -1,5 +1,5 @@
 {
   "q"         : "*",
   "query_by"  : "name",
-  "sort_by"   : "_eval(id:1):asc,pop:desc"
+  "sort_by"   : "_eval(other_field:test):desc,pop:desc"
 }

@@ -16,6 +16,11 @@
       "name":     "pop",
       "optional": false,
       "type":     "int32"
+    },
+    {
+      "name":     "other_field",
+      "optional": false,
+      "type":     "string"
     }
   ]
 }
