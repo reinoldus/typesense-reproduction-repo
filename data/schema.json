@@ -1,0 +1,21 @@
+{
+  "name": "test_collection",
+  "fields": [
+    {
+      "facet":    false,
+      "name":     "id",
+      "optional": false,
+      "type":     "string"
+    },
+    {
+      "name":     "name",
+      "optional": false,
+      "type":     "string"
+    },
+    {
+      "name":     "pop",
+      "optional": false,
+      "type":     "int32"
+    }
+  ]
+}
