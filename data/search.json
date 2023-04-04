@@ -1,5 +1,5 @@
 {
-  "q"         : "*",
-  "query_by"  : "name",
-  "sort_by"   : "_eval(other_field:test):desc,pop:desc"
+  "q"         : "Neutrogena Ultra Sheer Moisturizing Face Serum",
+  "query_by"  : "brand,name",
+  "query_by_weights": "3,2"
 }

@@ -8,17 +8,12 @@
       "type":     "string"
     },
     {
-      "name":     "name",
+      "name":     "brand",
       "optional": false,
       "type":     "string"
     },
     {
-      "name":     "pop",
-      "optional": false,
-      "type":     "int32"
-    },
-    {
-      "name":     "other_field",
+      "name":     "name",
       "optional": false,
       "type":     "string"
     }

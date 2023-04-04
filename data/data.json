@@ -1,14 +1,12 @@
 [
   {
     "id": "0",
-    "name": "a",
-    "pop": 1,
-    "other_field": "not_test"
+    "brand": "Wrong brand name",
+    "name": "Neutrogena Ultra Sheer Dry-Touch Sunscreen - / Exp 2022 SPF 100"
   },
   {
     "id": "1",
-    "name": "b",
-    "pop": 0,
-    "other_field": "test"
+    "brand": "Neutrogena",
+    "name": "'Ultra Sheer Oil-Free Face Serum With Vitamin E + SPF 60'"
   }
 ]
